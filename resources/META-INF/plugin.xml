@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>com.jfboily.darkjeff</id>
+  <name>Dark Jeff Theme</name>
+  <version>1.0</version>
+  <vendor email="jf@jfboily.com" url="https://jfboily.com">JF Boily</vendor>
+
+  <description><![CDATA[
+      My version of a dark theme.<br>
+      <em>enjoy!</em>
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Initial revision.<br>
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="191.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="33b0fb73-7ff9-421f-8c13-1e6b8aaf389a" path="/dark_jeff.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
