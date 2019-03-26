@@ -5,15 +5,15 @@
   "editorScheme": "/themes/dark_jeff.xml",
   "ui": {
     "*": {
-      "background": "#2C2C3B",
-      "foreground": "#D0D0D9",
+      "background": "#242830",
+      "foreground": "#c5c6c9",
 
-      "infoForeground": "#6d6a80",
+      "infoForeground": "#95a1ac",
 
-      "selectionBackground": "#713a91",
-      "selectionForeground": "#D0D0D9",
-      "selectionInactiveBackground": "#3d3952",
-      "selectionBackgroundInactive": "#3d3952",
+      "selectionBackground": "#436469",
+      "selectionForeground": "#ebf8fa",
+      "selectionInactiveBackground": "#282c35",
+      "selectionBackgroundInactive": "#2e323b",
 
       "lightSelectionBackground": "#3a324a",
       "lightSelectionForeground": "#D0D0D9",
