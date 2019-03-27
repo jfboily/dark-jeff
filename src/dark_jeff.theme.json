@@ -73,7 +73,7 @@
 
     "Borders": {
       "color": "#20242d",
-      "ContrastBorderColor": "#3b454e"
+      "ContrastBorderColor": "#20242d"
     },
 
     "ComboBox": {
@@ -305,8 +305,8 @@
 
     "ToolWindow": {
       "Header": {
-        "background": "#232730",
-        "inactiveBackground": "#454953",
+        "background": "#454953",
+        "inactiveBackground": "#232730",
         "borderColor": "#1c1f28"
       },
 
