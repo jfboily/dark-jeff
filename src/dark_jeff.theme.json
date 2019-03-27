@@ -60,7 +60,7 @@
       "shadowColor": "#27282B",
 
       "default": {
-        "foreground": "#c5c6c9",`,
+        "foreground": "#c5c6c9",
         "startBackground": "#2b303a",
         "endBackground": "#2b303a",
         "startBorderColor": "#2f3540",
@@ -195,8 +195,8 @@
         "hoverBackground": "#593F73"
       },
 
-      "SearchField.borderColor": "#1a1721",
-      "SearchField.background": "#252533",
+      "SearchField.borderColor": "#24292b",
+      "SearchField.background": "#161b1d",
       "SectionHeader.background": "#3d3952",
       "tagBackground": "#4c4766",
       "tagForeground": "#D0D0D9",
@@ -243,10 +243,10 @@
     },
 
     "SearchEverywhere": {
-      "Header.background": "#3a394d",
+      "Header.background": "#282c35",
       "Tab": {
         "selectedForeground": "#D0D0D9",
-        "selectedBackground": "#5c3d7a"
+        "selectedBackground": "#365054"
       },
       "SearchField":{
         "background": "#252533",
@@ -280,13 +280,13 @@
     "Table.stripeColor": "#323242",
 
     "TextArea": {
-      "background": "#2b303a",
-      "selectionBackground": "#69418c"
+      "background": "#232730",
+      "selectionBackground": "#51878e"
     },
 
     "TextField": {
-      "background": "#2b303a",
-      "selectionBackground": "#69418c"
+      "background": "#232730",
+      "selectionBackground": "#51878e"
     },
 
     "ToggleButton": {
@@ -300,12 +300,12 @@
 
     "ToolTip": {
       "background": "#463f57",
-      "Actions.background": "#323245"
+      "Actions.background": "#23252a"
     },
 
     "ToolWindow": {
       "Header": {
-        "background": "#453A5C",
+        "background": "#23252a",
         "inactiveBackground": "#2b303a",
         "borderColor": "#1a1721"
       },
