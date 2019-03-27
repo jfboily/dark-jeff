@@ -94,12 +94,12 @@
     },
 
     "Component": {
-      "errorFocusColor": "#a73e2c",
-      "inactiveErrorFocusColor": "#522530",
-      "warningFocusColor": "#8c812b",
-      "inactiveWarningFocusColor": "#47441f",
-      "iconColor": "#77728fCC",
-      "hoverIconColor": "#8b85a6"
+      "errorFocusColor": "#ba4130",
+      "inactiveErrorFocusColor": "#63271b",
+      "warningFocusColor": "#bb8a42",
+      "inactiveWarningFocusColor": "#584023",
+      "iconColor": "#707174cc",
+      "hoverIconColor": "#326974"
     },
 
     "Counter": {
@@ -134,12 +134,12 @@
     },
 
     "FileColor": {
-      "Yellow": "#45243b",
-      "Green": "#213d37",
-      "Blue": "#1f3557",
-      "Violet": "#2a2754",
-      "Orange": "#402e23",
-      "Rose": "#4a2d59"
+      "Yellow": "#402b20",
+      "Green": "#133219",
+      "Blue": "#10243a",
+      "Violet": "#1e153d",
+      "Orange": "#331616",
+      "Rose": "#1d081b"
     },
 
     "InplaceRefactoringPopup.borderColor": "#20242d",
