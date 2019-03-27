@@ -53,10 +53,10 @@
     },
 
     "Button": {
-      "startBackground": "#2e2e2e",
-      "endBackground": "#2e2e2e",
-      "startBorderColor": "#335459",
-      "endBorderColor": "#335459",
+      "startBackground": "#335459",
+      "endBackground": "#335459",
+      "startBorderColor": "#2e2e2e",
+      "endBorderColor": "#2e2e2e",
       "shadowColor": "#27282B",
 
       "default": {
