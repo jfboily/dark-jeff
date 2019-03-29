@@ -2,7 +2,7 @@
   "name": "dark-jeff",
   "dark": true,
   "author": "JF Boily",
-  "editorScheme": "/themes/dark_jeff.xml",
+  "editorScheme": "/themes/dark_jeff_rainglow_azure.xml",
   "ui": {
     "*": {
       "background": "#242830",
@@ -61,10 +61,10 @@
 
       "default": {
         "foreground": "#c5c6c9",
-        "startBackground": "#2b303a",
-        "endBackground": "#2b303a",
-        "startBorderColor": "#2f3540",
-        "endBorderColor": "#2f3540",
+        "startBackground": "#335459",
+        "endBackground": "#335459",
+        "startBorderColor": "#4e7f84",
+        "endBorderColor": "#4e7f84",
         "focusedBorderColor": "#414958",
         "focusColor": "#414a59",
         "shadowColor": "#27282B"
