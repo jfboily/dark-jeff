@@ -6,11 +6,14 @@
 
   <description><![CDATA[
       My version of a dark theme.<br>
+      Includes a minimally modified version of Rainglow Azure color scheme (by Dayle Rees).<br>
       <em>enjoy!</em>
     ]]></description>
 
   <change-notes><![CDATA[
       Initial revision.<br>
+      with screenshot<br>
+      And min 40 chars on change-notes, yes sir.
     ]]>
   </change-notes>
 
