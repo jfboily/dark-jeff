@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.jfboily.darkjeff</id>
   <name>Dark Jeff Theme</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="jf@jfboily.com" url="https://jfboily.com">JF Boily</vendor>
 
   <description><![CDATA[
@@ -11,9 +11,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Initial revision.<br>
-      with screenshot<br>
-      And min 40 chars on change-notes, yes sir.
+      Fixed border color button when button is focused.
     ]]>
   </change-notes>
 

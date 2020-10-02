@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2478d0fb-c67b-48fe-b103-e426c6351140" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/themes/dark_jeff_rainglow_azure.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/themes/dark_jeff_rainglow_azure.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dark_jeff.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/dark_jeff.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +117,7 @@
       <workItem from="1553962262927" duration="1255000" />
       <workItem from="1554164350635" duration="2356000" />
       <workItem from="1554170064922" duration="74000" />
-      <workItem from="1601602134805" duration="642000" />
+      <workItem from="1601602134805" duration="1324000" />
     </task>
     <servers />
   </component>
