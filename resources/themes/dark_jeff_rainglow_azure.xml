@@ -48,7 +48,6 @@
     <option name="RIGHT_MARGIN_COLOR" value="202732" />
     <option name="SELECTED_INDENT_GUIDE" value="364155" />
     <option name="SELECTED_TEARLINE_COLOR" value="364155" />
-    <option name="SELECTION_BACKGROUND" value="47959a" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="202732" />
@@ -59,6 +58,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
     <option name="WHITESPACES" value="202732" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="202732" />
+    <option name="SELECTION_BACKGROUND" value="51878e" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -662,7 +662,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="52708b" />
+        <option name="FOREGROUND" value="739bbc" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">

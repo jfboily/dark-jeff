@@ -63,10 +63,10 @@
         "foreground": "#c5c6c9",
         "startBackground": "#335459",
         "endBackground": "#335459",
-        "startBorderColor": "#4e7f84",
-        "endBorderColor": "#4e7f84",
-        "focusedBorderColor": "#414958",
-        "focusColor": "#414a59",
+        "startBorderColor": "#414958",
+        "endBorderColor": "#414a59",
+        "focusedBorderColor": "#4e7f84",
+        "focusColor": "#4e7f84",
         "shadowColor": "#27282B"
       }
     },
